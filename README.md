@@ -32,6 +32,11 @@ This project focuses on learning Redux concepts such as slices, async thunks, ce
 
 ---
 
+## Project live link
+https://shopping-cart-redux-mauve.vercel.app/
+
+---
+
 ## 📂 Project Structure
 
 ```
