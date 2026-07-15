@@ -75,7 +75,7 @@ https://fakestoreapi.com/products
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/basav-ch/shopping-cart-redux.git
 ```
 
 Navigate to the project
